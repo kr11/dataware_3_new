@@ -1,0 +1,7 @@
+*.opensdf
+*.sdf
+*.suo
+Debug/
+Release/
+/Project3/result.txt
+/Project3/Gowalla_edges.txt

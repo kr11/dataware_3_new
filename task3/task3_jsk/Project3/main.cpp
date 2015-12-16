@@ -1,6 +1,9 @@
 #include <iostream>
 #include <fstream>
 #include <map>
+#include <set>
+#include <vector>
+#include <algorithm>
 #include "dbscan.h"
 #include "bi_kmeans.h"
 
@@ -254,7 +257,83 @@ void user_clustering()
 	delete [] data;
 }
 
+void evaluation()
+{
+	int i;
+	int j;
+	int k;
+	int size;
+	int count;
+	char file_name[50];
+	map<int, set<int>> relation;
+	map<int, set<int>>::iterator it;
+	ifstream inFile("Gowalla_edges.txt", ios::in);
+
+	if (inFile.fail())
+	{
+		cout<<"The file Gowalla_edges.txt does not exist!"<<endl;
+		return;
+	}
+	while (!inFile.eof())
+	{
+		inFile>>i>>j;
+		if (i > j)
+		{
+			k = i;
+			i = j;
+			j = k;
+		}
+		it = relation.find(i);
+		if (it != relation.end())
+		{
+			it->second.insert(j);
+		}
+		else
+		{
+			set<int> temp;
+			temp.insert(j);
+			relation[i] = temp;
+		}
+	}
+	inFile.close();
+
+	cout<<"The ratio of friend-pairs to all user-pairs:"<<endl;
+	for (i = 0; i < OUTPUT_CNUM; ++i)
+	{
+		vector<int> user;
+		sprintf(file_name, "user_clusters\\%d.txt", i);
+		inFile.open(file_name, ios::in);
+		if (inFile.fail())
+		{
+			user_clustering();
+			inFile.open(file_name, ios::in);
+		}
+		while (!inFile.eof())
+		{
+			inFile>>j;
+			user.push_back(j);
+		}
+		inFile.close();
+
+		sort(user.begin(), user.end());
+		count = 0;
+		size = user.size();
+		for (j = 0; j < size; ++j)
+		{
+			for (k = j + 1; k < size; ++k)
+			{
+				it = relation.find(user[j]);
+				if (it != relation.end() && it->second.find(user[k]) != it->second.end())
+				{
+					++count;
+				}
+			}
+		}
+		cout<<"User Cluster "<<i + 1<<": "<<count * 2.0 / (size * (size - 1))<<endl;
+	}
+}
+
 void main()
 {
-	user_clustering();
+	evaluation();
 }
