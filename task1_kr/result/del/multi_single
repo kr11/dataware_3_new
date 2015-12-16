@@ -1,0 +1,47 @@
+/System/Library/Frameworks/Python.framework/Versions/2.7/bin/python2.7 /Users/kangrong/Code/osc/Classification/bayesian/bayesian_classification.py
+read all data
+fold:0
+fold:1
+fold:2
+fold:3
+fold:4
+fold:5
+fold:6
+fold:7
+fold:8
+fold:9
+right:4006;wrong:112;rate;97.2802331229
+right:3979;wrong:139;rate;96.6245750364
+right:3954;wrong:164;rate;96.0174842156
+right:3862;wrong:256;rate;93.7833899951
+right:3896;wrong:222;rate;94.6090335114
+right:3898;wrong:220;rate;94.6576007771
+right:3276;wrong:842;rate;79.5531811559
+right:2426;wrong:1692;rate;58.9120932492
+right:2599;wrong:1519;rate;63.113161729
+right:1941;wrong:2184;rate;47.0545454545
+total right:33837,total count:41188;rate;0.821525687093
+fold:0
+right:3999;wrong:119
+fold:1
+right:3981;wrong:137
+fold:2
+right:3959;wrong:159
+fold:3
+right:3862;wrong:256
+fold:4
+right:3893;wrong:225
+fold:5
+right:3898;wrong:220
+fold:6
+right:3225;wrong:893
+fold:7
+right:1616;wrong:2502
+fold:8
+right:2119;wrong:1999
+fold:9
+right:1900;wrong:2225
+total right:32452,total count:41188;rate:0.787899388171
+read:24.38 s
+
+Process finished with exit code 0

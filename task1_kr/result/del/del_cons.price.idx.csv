@@ -1,0 +1,22 @@
+del:cons.price.idx
+fold:0
+fold:1
+fold:2
+fold:3
+fold:4
+fold:5
+fold:6
+fold:7
+fold:8
+fold:9
+right:4004;wrong:114;rate;97.2316658572
+right:3981;wrong:137;rate;96.6731423021
+right:3956;wrong:162;rate;96.0660514813
+right:3865;wrong:253;rate;93.8562408936
+right:3896;wrong:222;rate;94.6090335114
+right:3895;wrong:223;rate;94.5847498786
+right:3317;wrong:801;rate;80.548810102
+right:2544;wrong:1574;rate;61.7775619233
+right:2682;wrong:1436;rate;65.128703254
+right:1935;wrong:2190;rate;46.9090909091
+total right:34075,total count:41188;rate;0.827304069146

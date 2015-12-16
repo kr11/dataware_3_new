@@ -1,0 +1,22 @@
+del:loan
+fold:0
+fold:1
+fold:2
+fold:3
+fold:4
+fold:5
+fold:6
+fold:7
+fold:8
+fold:9
+right:4005;wrong:113;rate;97.25594949
+right:3979;wrong:139;rate;96.6245750364
+right:3955;wrong:163;rate;96.0417678485
+right:3863;wrong:255;rate;93.807673628
+right:3895;wrong:223;rate;94.5847498786
+right:3897;wrong:221;rate;94.6333171442
+right:3287;wrong:831;rate;79.820301117
+right:2401;wrong:1717;rate;58.3050024284
+right:2599;wrong:1519;rate;63.113161729
+right:1938;wrong:2187;rate;46.9818181818
+total right:33819,total count:41188;rate;0.821088666602

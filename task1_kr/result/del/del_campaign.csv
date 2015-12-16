@@ -1,0 +1,22 @@
+del:campaign
+fold:0
+fold:1
+fold:2
+fold:3
+fold:4
+fold:5
+fold:6
+fold:7
+fold:8
+fold:9
+right:4008;wrong:110;rate;97.3288003885
+right:3974;wrong:144;rate;96.5031568723
+right:3956;wrong:162;rate;96.0660514813
+right:3863;wrong:255;rate;93.807673628
+right:3896;wrong:222;rate;94.6090335114
+right:3902;wrong:216;rate;94.7547353084
+right:3356;wrong:762;rate;81.4958717824
+right:2632;wrong:1486;rate;63.9145216124
+right:2675;wrong:1443;rate;64.9587178242
+right:1971;wrong:2154;rate;47.7818181818
+total right:34233,total count:41188;rate;0.831140137904

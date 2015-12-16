@@ -1,0 +1,22 @@
+del:nr.employed
+fold:0
+fold:1
+fold:2
+fold:3
+fold:4
+fold:5
+fold:6
+fold:7
+fold:8
+fold:9
+right:3999;wrong:119;rate;97.1102476931
+right:3978;wrong:140;rate;96.6002914036
+right:3960;wrong:158;rate;96.1631860126
+right:3870;wrong:248;rate;93.9776590578
+right:3902;wrong:216;rate;94.7547353084
+right:3898;wrong:220;rate;94.6576007771
+right:3329;wrong:789;rate;80.840213696
+right:2594;wrong:1524;rate;62.9917435648
+right:2725;wrong:1393;rate;66.1728994658
+right:2067;wrong:2058;rate;50.1090909091
+total right:34322,total count:41188;rate;0.833300961445

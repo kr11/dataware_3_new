@@ -1,0 +1,22 @@
+del:cons.conf.idx
+fold:0
+fold:1
+fold:2
+fold:3
+fold:4
+fold:5
+fold:6
+fold:7
+fold:8
+fold:9
+right:4004;wrong:114;rate;97.2316658572
+right:3978;wrong:140;rate;96.6002914036
+right:3956;wrong:162;rate;96.0660514813
+right:3865;wrong:253;rate;93.8562408936
+right:3895;wrong:223;rate;94.5847498786
+right:3899;wrong:219;rate;94.6818844099
+right:3284;wrong:834;rate;79.7474502186
+right:2377;wrong:1741;rate;57.7221952404
+right:2544;wrong:1574;rate;61.7775619233
+right:1936;wrong:2189;rate;46.9333333333
+total right:33738,total count:41188;rate;0.819122074391

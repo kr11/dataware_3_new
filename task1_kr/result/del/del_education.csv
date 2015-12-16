@@ -1,0 +1,22 @@
+del:education
+fold:0
+fold:1
+fold:2
+fold:3
+fold:4
+fold:5
+fold:6
+fold:7
+fold:8
+fold:9
+right:4003;wrong:115;rate;97.2073822244
+right:3974;wrong:144;rate;96.5031568723
+right:3955;wrong:163;rate;96.0417678485
+right:3864;wrong:254;rate;93.8319572608
+right:3896;wrong:222;rate;94.6090335114
+right:3896;wrong:222;rate;94.6090335114
+right:3281;wrong:837;rate;79.6745993201
+right:2388;wrong:1730;rate;57.9893152016
+right:2594;wrong:1524;rate;62.9917435648
+right:1939;wrong:2186;rate;47.0060606061
+total right:33790,total count:41188;rate;0.820384578032

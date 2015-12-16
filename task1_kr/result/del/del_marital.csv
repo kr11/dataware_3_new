@@ -1,0 +1,22 @@
+del:marital
+fold:0
+fold:1
+fold:2
+fold:3
+fold:4
+fold:5
+fold:6
+fold:7
+fold:8
+fold:9
+right:4005;wrong:113;rate;97.25594949
+right:3979;wrong:139;rate;96.6245750364
+right:3955;wrong:163;rate;96.0417678485
+right:3864;wrong:254;rate;93.8319572608
+right:3896;wrong:222;rate;94.6090335114
+right:3897;wrong:221;rate;94.6333171442
+right:3275;wrong:843;rate;79.5288975231
+right:2385;wrong:1733;rate;57.9164643031
+right:2608;wrong:1510;rate;63.3317144245
+right:1942;wrong:2183;rate;47.0787878788
+total right:33806,total count:41188;rate;0.820773040691

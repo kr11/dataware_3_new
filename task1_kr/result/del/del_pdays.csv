@@ -1,0 +1,22 @@
+del:pdays
+fold:0
+fold:1
+fold:2
+fold:3
+fold:4
+fold:5
+fold:6
+fold:7
+fold:8
+fold:9
+right:3998;wrong:120;rate;97.0859640602
+right:3978;wrong:140;rate;96.6002914036
+right:3960;wrong:158;rate;96.1631860126
+right:3870;wrong:248;rate;93.9776590578
+right:3902;wrong:216;rate;94.7547353084
+right:3904;wrong:214;rate;94.8033025741
+right:3114;wrong:1004;rate;75.6192326372
+right:1469;wrong:2649;rate;35.6726566294
+right:1759;wrong:2359;rate;42.7149101506
+right:1906;wrong:2219;rate;46.2060606061
+total right:31860,total count:41188;rate;0.773526269787

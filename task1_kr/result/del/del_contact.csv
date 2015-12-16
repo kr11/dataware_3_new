@@ -1,0 +1,22 @@
+del:contact
+fold:0
+fold:1
+fold:2
+fold:3
+fold:4
+fold:5
+fold:6
+fold:7
+fold:8
+fold:9
+right:4000;wrong:118;rate;97.1345313259
+right:3978;wrong:140;rate;96.6002914036
+right:3957;wrong:161;rate;96.0903351141
+right:3864;wrong:254;rate;93.8319572608
+right:3894;wrong:224;rate;94.5604662458
+right:3899;wrong:219;rate;94.6818844099
+right:3337;wrong:781;rate;81.0344827586
+right:2556;wrong:1562;rate;62.0689655172
+right:2636;wrong:1482;rate;64.0116561438
+right:1916;wrong:2209;rate;46.4484848485
+total right:34037,total count:41188;rate;0.826381470331

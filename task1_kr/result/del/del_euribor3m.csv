@@ -1,0 +1,22 @@
+del:euribor3m
+fold:0
+fold:1
+fold:2
+fold:3
+fold:4
+fold:5
+fold:6
+fold:7
+fold:8
+fold:9
+right:4000;wrong:118;rate;97.1345313259
+right:3978;wrong:140;rate;96.6002914036
+right:3958;wrong:160;rate;96.114618747
+right:3870;wrong:248;rate;93.9776590578
+right:3902;wrong:216;rate;94.7547353084
+right:3898;wrong:220;rate;94.6576007771
+right:3417;wrong:701;rate;82.9771733851
+right:2859;wrong:1259;rate;69.4269062652
+right:2953;wrong:1165;rate;71.7095677513
+right:2027;wrong:2098;rate;49.1393939394
+total right:34862,total count:41188;rate;0.846411576187

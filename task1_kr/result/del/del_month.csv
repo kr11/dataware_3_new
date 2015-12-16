@@ -1,0 +1,22 @@
+del:month
+fold:0
+fold:1
+fold:2
+fold:3
+fold:4
+fold:5
+fold:6
+fold:7
+fold:8
+fold:9
+right:3999;wrong:119;rate;97.1102476931
+right:3979;wrong:139;rate;96.6245750364
+right:3955;wrong:163;rate;96.0417678485
+right:3866;wrong:252;rate;93.8805245265
+right:3894;wrong:224;rate;94.5604662458
+right:3898;wrong:220;rate;94.6576007771
+right:3409;wrong:709;rate;82.7829043225
+right:2337;wrong:1781;rate;56.7508499271
+right:2293;wrong:1825;rate;55.6823700826
+right:1941;wrong:2184;rate;47.0545454545
+total right:33571,total count:41188;rate;0.815067495387

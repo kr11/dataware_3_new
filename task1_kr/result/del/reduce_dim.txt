@@ -1,0 +1,10 @@
+read all data
+delete first 1 labels total right:34862,total count:41188;rate:0.846411576187
+delete first 2 labels total right:35622,total count:41188;rate:0.864863552491
+delete first 3 labels total right:35894,total count:41188;rate:0.871467417694
+delete first 4 labels total right:36264,total count:41188;rate:0.880450616684
+delete first 5 labels total right:36444,total count:41188;rate:0.884820821599
+delete first 6 labels total right:36518,total count:41188;rate:0.886617461397
+delete first 7 labels total right:36517,total count:41188;rate:0.88659318248
+delete first 8 labels total right:36520,total count:41188;rate:0.886666019229
+delete first 9 labels total right:36525,total count:41188;rate:0.88678741381

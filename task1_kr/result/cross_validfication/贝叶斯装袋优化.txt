@@ -1,0 +1,13 @@
+build 10 model:read:0.41 s
+right:4004;wrong:114;rate;97.2316658572
+right:3973;wrong:145;rate;96.4788732394
+right:3762;wrong:356;rate;91.355026712
+right:3863;wrong:255;rate;93.807673628
+right:3874;wrong:244;rate;94.0747935891
+right:3893;wrong:225;rate;94.5361826129
+right:3700;wrong:418;rate;89.8494414764
+right:3624;wrong:494;rate;88.0038853813
+right:3471;wrong:647;rate;84.288489558
+right:2232;wrong:1893;rate;54.1090909091
+total right:36396,total count:41188;rate;0.883655433621
+read:14.37 s

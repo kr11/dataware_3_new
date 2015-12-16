@@ -1,0 +1,22 @@
+del:housing
+fold:0
+fold:1
+fold:2
+fold:3
+fold:4
+fold:5
+fold:6
+fold:7
+fold:8
+fold:9
+right:4007;wrong:111;rate;97.3045167557
+right:3978;wrong:140;rate;96.6002914036
+right:3955;wrong:163;rate;96.0417678485
+right:3862;wrong:256;rate;93.7833899951
+right:3895;wrong:223;rate;94.5847498786
+right:3897;wrong:221;rate;94.6333171442
+right:3286;wrong:832;rate;79.7960174842
+right:2400;wrong:1718;rate;58.2807187955
+right:2598;wrong:1520;rate;63.0888780962
+right:1937;wrong:2188;rate;46.9575757576
+total right:33815,total count:41188;rate;0.820991550937

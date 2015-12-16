@@ -1,0 +1,13 @@
+right:3999;wrong:119
+right:3981;wrong:137
+right:3959;wrong:159
+right:3862;wrong:256
+right:3893;wrong:225
+right:3898;wrong:220
+right:3225;wrong:893
+right:1616;wrong:2502
+right:2119;wrong:1999
+right:1900;wrong:2225
+build 10 model:read:5.02 s
+all:read:6.69 s
+total right:32452,total count:41188;rate:0.787899388171

@@ -1,0 +1,22 @@
+del:poutcome
+fold:0
+fold:1
+fold:2
+fold:3
+fold:4
+fold:5
+fold:6
+fold:7
+fold:8
+fold:9
+right:4006;wrong:112;rate;97.2802331229
+right:3981;wrong:137;rate;96.6731423021
+right:3956;wrong:162;rate;96.0660514813
+right:3866;wrong:252;rate;93.8805245265
+right:3895;wrong:223;rate;94.5847498786
+right:3899;wrong:219;rate;94.6818844099
+right:3250;wrong:868;rate;78.9218067023
+right:2313;wrong:1805;rate;56.1680427392
+right:2542;wrong:1576;rate;61.7289946576
+right:1931;wrong:2194;rate;46.8121212121
+total right:33639,total count:41188;rate;0.816718461688

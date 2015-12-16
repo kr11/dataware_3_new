@@ -1,0 +1,14 @@
+build 10 model:read:107.40 s
+right:3945;wrong:173;rate;95.7989315202
+right:3934;wrong:184;rate;95.531811559
+right:3862;wrong:256;rate;93.7833899951
+right:3768;wrong:350;rate;91.500728509
+right:3825;wrong:293;rate;92.8848955804
+right:3852;wrong:266;rate;93.5405536668
+right:3627;wrong:491;rate;88.0767362797
+right:3605;wrong:513;rate;87.5424963575
+right:3476;wrong:642;rate;84.4099077222
+right:2297;wrong:1828;rate;55.6848484848
+total right:36191,total count:41188;rate;0.878678255803
+read:108.50 s
+delete first 10 labels total right:36191,total count:41188;rate:0.878678255803

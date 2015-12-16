@@ -1,0 +1,44 @@
+read all data
+fold:0
+fold:1
+fold:2
+fold:3
+fold:4
+fold:5
+fold:6
+fold:7
+fold:8
+fold:9
+right:4006;wrong:112;rate;97.2802331229
+right:3979;wrong:139;rate;96.6245750364
+right:3955;wrong:163;rate;96.0417678485
+right:3863;wrong:255;rate;93.807673628
+right:3895;wrong:223;rate;94.5847498786
+right:3897;wrong:221;rate;94.6333171442
+right:3286;wrong:832;rate;79.7960174842
+right:2403;wrong:1715;rate;58.353569694
+right:2597;wrong:1521;rate;63.0645944633
+right:1938;wrong:2187;rate;46.9818181818
+total right:33819,total count:41188;rate;0.821088666602
+fold:0
+right:3999;wrong:119
+fold:1
+right:3981;wrong:137
+fold:2
+right:3960;wrong:158
+fold:3
+right:3862;wrong:256
+fold:4
+right:3892;wrong:226
+fold:5
+right:3896;wrong:222
+fold:6
+right:3229;wrong:889
+fold:7
+right:1603;wrong:2515
+fold:8
+right:2107;wrong:2011
+fold:9
+right:1902;wrong:2223
+total right:32431,total count:41188;rate:0.787389530931
+read:20.42 s

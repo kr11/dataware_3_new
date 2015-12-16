@@ -1,0 +1,22 @@
+del:emp.var.rate
+fold:0
+fold:1
+fold:2
+fold:3
+fold:4
+fold:5
+fold:6
+fold:7
+fold:8
+fold:9
+right:3999;wrong:119;rate;97.1102476931
+right:3978;wrong:140;rate;96.6002914036
+right:3958;wrong:160;rate;96.114618747
+right:3870;wrong:248;rate;93.9776590578
+right:3902;wrong:216;rate;94.7547353084
+right:3898;wrong:220;rate;94.6576007771
+right:3404;wrong:714;rate;82.6614861583
+right:2800;wrong:1318;rate;67.9941719281
+right:2915;wrong:1203;rate;70.7867897037
+right:2015;wrong:2110;rate;48.8484848485
+total right:34739,total count:41188;rate;0.843425269496

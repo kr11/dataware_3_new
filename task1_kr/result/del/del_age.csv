@@ -1,0 +1,22 @@
+del:age
+fold:0
+fold:1
+fold:2
+fold:3
+fold:4
+fold:5
+fold:6
+fold:7
+fold:8
+fold:9
+right:4006;wrong:112;rate;97.2802331229
+right:3980;wrong:138;rate;96.6488586693
+right:3956;wrong:162;rate;96.0660514813
+right:3862;wrong:256;rate;93.7833899951
+right:3899;wrong:219;rate;94.6818844099
+right:3898;wrong:220;rate;94.6576007771
+right:3257;wrong:861;rate;79.0917921321
+right:2320;wrong:1798;rate;56.338028169
+right:2558;wrong:1560;rate;62.1175327829
+right:1938;wrong:2187;rate;46.9818181818
+total right:33674,total count:41188;rate;0.817568223754

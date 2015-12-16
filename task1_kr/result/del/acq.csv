@@ -1,0 +1,20 @@
+,,,,,,,,删除维度,删除后准确率
+del:nr.employed,total right:34322,total,count,41188,rate,0.833300961,,del:euribor3m,84.64%
+del:euribor3m,total right:34862,total,count,41188,rate,0.846411576,,del:emp.var.rate,84.34%
+del:poutcome,total right:33639,total,count,41188,rate,0.816718462,,del:nr.employed,83.33%
+del:campaign,total right:34233,total,count,41188,rate,0.831140138,,del:campaign,83.11%
+del:cons.conf.idx,total right:33738,total,count,41188,rate,0.819122074,,del:cons.price.idx,82.73%
+del:default,total right:33773,total,count,41188,rate,0.819971836,,del:contact,82.64%
+del:age,total right:33674,total,count,41188,rate,0.817568224,,del:loan,82.11%
+del:emp.var.rate,total right:34739,total,count,41188,rate,0.843425269,,del:housing,82.10%
+del:marital,total right:33806,total,count,41188,rate,0.820773041,,del:marital,82.08%
+del:cons.price.idx,total right:34075,total,count,41188,rate,0.827304069,,del:education,82.04%
+del:job,total right:33719,total,count,41188,rate,0.818660775,,del:default,82.00%
+del:contact,total right:34037,total,count,41188,rate,0.82638147,,del:cons.conf.idx,81.91%
+del:month,total right:33571,total,count,41188,rate,0.815067495,,del:job,81.87%
+del:duration,total right:32372,total,count,41188,rate,0.785957075,,del:age,81.76%
+del:loan,total right:33819,total,count,41188,rate,0.821088667,,del:poutcome,81.67%
+del:education,total right:33790,total,count,41188,rate,0.820384578,,del:month,81.51%
+del:pdays,total right:31860,total,count,41188,rate,0.77352627,,del:previous,81.11%
+del:housing,total right:33815,total,count,41188,rate,0.820991551,,del:duration,78.60%
+del:previous,total right:33409,total,count,41188,rate,0.811134311,,del:pdays,77.35%
